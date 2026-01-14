@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "320714579794",
+    "project_id": "kasir-mini-lite",
+    "storage_bucket": "kasir-mini-lite.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320714579794:android:04926dc4c2a28ef7a9248b",
+        "android_client_info": {
+          "package_name": "com.example.kasirmini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwiLSyYICCPMs8VqoJsL64OSiyUOejkeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
